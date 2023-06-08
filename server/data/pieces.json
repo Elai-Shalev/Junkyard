@@ -1,0 +1,702 @@
+[
+    {
+        "description": "Beautiful couch, barely used.",
+        "image_url": "0",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                32.11568782290156,
+                34.84655626153901
+            ]
+        },
+        "title": "Couch",
+        "upload_time": "08:30",
+        "user_id": "123456789"
+    },
+    {
+        "description": "Sturdy wooden table. Great condition.",
+        "image_url": "0",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                32.10302909487132,
+                34.86426348330181
+            ]
+        },
+        "title": "Wooden Table",
+        "upload_time": "09:15",
+        "user_id": "987654321"
+    },
+    {
+        "description": "A comfortable armchair in a lovely blue hue.",
+        "image_url": "0",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                32.109279314034936,
+                34.846173281254906
+            ]
+        },
+        "title": "Blue Armchair",
+        "upload_time": "10:00",
+        "user_id": "456789123"
+    },
+    {
+        "description": "Vintage lamp in perfect working condition.",
+        "image_url": "0",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                32.10458333971354,
+                34.86455808739437
+            ]
+        },
+        "title": "Vintage Lamp",
+        "upload_time": "10:30",
+        "user_id": "321654987"
+    },
+    {
+        "description": "Solid oak desk, well maintained.",
+        "image_url": "0",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                32.10640049155327,
+                34.85374971546812
+            ]
+        },
+        "title": "Oak Desk",
+        "upload_time": "11:00",
+        "user_id": "654321789"
+    },
+    {
+        "description": "Comfortable office chair with lumbar support.",
+        "image_url": "0",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                32.110784536626284,
+                34.86431680693201
+            ]
+        },
+        "title": "Office Chair",
+        "upload_time": "11:30",
+        "user_id": "789123456"
+    },
+    {
+        "description": "Colorful area rug. Good as new.",
+        "image_url": "0",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                32.10597332337456,
+                34.85318899374849
+            ]
+        },
+        "title": "Area Rug",
+        "upload_time": "12:00",
+        "user_id": "852741963"
+    },
+    {
+        "description": "Stylish glass coffee table. Minor scratches.",
+        "image_url": "0",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                32.09967442235027,
+                34.85598068077281
+            ]
+        },
+        "title": "Glass Coffee Table",
+        "upload_time": "12:30",
+        "user_id": "963852741"
+    },
+    {
+        "description": "Wooden bookshelf with plenty of storage space.",
+        "image_url": "0",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                32.11447668296165,
+                34.86379329767944
+            ]
+        },
+        "title": "Bookshelf",
+        "upload_time": "13:00",
+        "user_id": "741963852"
+    },
+    {
+        "description": "Decorative mirror in a beautiful ornate frame.",
+        "image_url": "0",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                32.10198848808408,
+                34.858683150284605
+            ]
+        },
+        "title": "Decorative Mirror",
+        "upload_time": "13:30",
+        "user_id": "147258369"
+    },
+    {
+        "description": "Classic rocking chair. Very comfortable.",
+        "image_url": "0",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                32.114994811349796,
+                34.85412746164432
+            ]
+        },
+        "title": "Rocking Chair",
+        "upload_time": "14:00",
+        "user_id": "369258147"
+    },
+    {
+        "description": "Modern TV stand with storage compartments.",
+        "image_url": "0",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                32.114653303841685,
+                34.84882755049976
+            ]
+        },
+        "title": "TV Stand",
+        "upload_time": "14:30",
+        "user_id": "258369147"
+    },
+    {
+        "description": "Woven basket. Perfect for storage or decoration.",
+        "image_url": "0",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                32.10679758420229,
+                34.85821483515858
+            ]
+        },
+        "title": "Woven Basket",
+        "upload_time": "15:00",
+        "user_id": "369147258"
+    },
+    {
+        "description": "Leather armchair. Some wear, but very comfortable.",
+        "image_url": "0",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                32.09970948447208,
+                34.85397295685719
+            ]
+        },
+        "title": "Leather Armchair",
+        "upload_time": "15:30",
+        "user_id": "147369258"
+    },
+    {
+        "description": "Stainless steel bar stools. Set of 2.",
+        "image_url": "0",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                32.10448870982182,
+                34.85378949337585
+            ]
+        },
+        "title": "Bar Stools",
+        "upload_time": "16:00",
+        "user_id": "258147369"
+    },
+    {
+        "description": "Wooden side table. Ideal for any room.",
+        "image_url": "0",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                32.107434572816004,
+                34.863096983738565
+            ]
+        },
+        "title": "Side Table",
+        "upload_time": "16:30",
+        "user_id": "369147258"
+    },
+    {
+        "description": "Colorful wall art. Brightens up any space.",
+        "image_url": "0",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                32.104390104088125,
+                34.860045704024245
+            ]
+        },
+        "title": "Wall Art",
+        "upload_time": "17:00",
+        "user_id": "147258369"
+    },
+    {
+        "description": "Lovely flower vase. Made of ceramic.",
+        "image_url": "0",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                32.10400790073527,
+                34.856548224444
+            ]
+        },
+        "title": "Flower Vase",
+        "upload_time": "17:30",
+        "user_id": "369258147"
+    },
+    {
+        "description": "Plush throw pillow. Soft and cozy.",
+        "image_url": "0",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                32.099782828614615,
+                34.85651606996885
+            ]
+        },
+        "title": "Throw Pillow",
+        "upload_time": "18:00",
+        "user_id": "258369147"
+    },
+    {
+        "description": "Modern floor lamp. Gives off a warm light.",
+        "image_url": "0",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                32.11343311158124,
+                34.85139544261653
+            ]
+        },
+        "title": "Floor Lamp",
+        "upload_time": "18:30",
+        "user_id": "369147258"
+    },
+    {
+        "description": "Stylish metal coat rack. Has a few scuffs.",
+        "image_url": "0",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                32.1182463071629,
+                34.86039106727506
+            ]
+        },
+        "title": "Metal Coat Rack",
+        "upload_time": "19:00",
+        "user_id": "258741963"
+    },
+    {
+        "description": "Ceramic plant pot with beautiful floral design.",
+        "image_url": "0",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                32.11703366182074,
+                34.859063633857566
+            ]
+        },
+        "title": "Ceramic Plant Pot",
+        "upload_time": "19:30",
+        "user_id": "369852147"
+    },
+    {
+        "description": "Handmade woolen blanket. Warm and cozy.",
+        "image_url": "0",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                32.1089378811211,
+                34.84897371036841
+            ]
+        },
+        "title": "Woolen Blanket",
+        "upload_time": "20:00",
+        "user_id": "147963852"
+    },
+    {
+        "description": "Vintage metal bed frame. Full size.",
+        "image_url": "0",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                32.11037387677902,
+                34.85903119807135
+            ]
+        },
+        "title": "Metal Bed Frame",
+        "upload_time": "20:30",
+        "user_id": "963147852"
+    },
+    {
+        "description": "Antique wooden chest. Great storage solution.",
+        "image_url": "0",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                32.10356653047547,
+                34.85179609070444
+            ]
+        },
+        "title": "Wooden Chest",
+        "upload_time": "21:00",
+        "user_id": "852369741"
+    },
+    {
+        "description": "Modern dining chair set. Includes 4 chairs.",
+        "image_url": "0",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                32.105374812301214,
+                34.85122708234622
+            ]
+        },
+        "title": "Dining Chairs",
+        "upload_time": "21:30",
+        "user_id": "741852369"
+    },
+    {
+        "description": "Elegant console table with glass top.",
+        "image_url": "0",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                32.110905885533015,
+                34.86246070205809
+            ]
+        },
+        "title": "Console Table",
+        "upload_time": "22:00",
+        "user_id": "369741852"
+    },
+    {
+        "description": "Cute bedside lamp with fabric shade.",
+        "image_url": "0",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                32.11556711748586,
+                34.861543465497824
+            ]
+        },
+        "title": "Bedside Lamp",
+        "upload_time": "22:30",
+        "user_id": "852741963"
+    },
+    {
+        "description": "Large mirror with wooden frame.",
+        "image_url": "0",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                32.10829401550781,
+                34.847366184755536
+            ]
+        },
+        "title": "Large Mirror",
+        "upload_time": "23:00",
+        "user_id": "963852741"
+    },
+    {
+        "description": "Small wooden stool. Perfect for any room.",
+        "image_url": "0",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                32.116907996949756,
+                34.85557548437683
+            ]
+        },
+        "title": "Wooden Stool",
+        "upload_time": "23:30",
+        "user_id": "741963852"
+    },
+    {
+        "description": "Outdoor patio table. Durable and weather-resistant.",
+        "image_url": "0",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                32.11251189614952,
+                34.85578163949404
+            ]
+        },
+        "title": "Patio Table",
+        "upload_time": "00:00",
+        "user_id": "147258369"
+    },
+    {
+        "description": "Plastic storage bins. Set of 3.",
+        "image_url": "0",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                32.11791488808627,
+                34.85613620383124
+            ]
+        },
+        "title": "Storage Bins",
+        "upload_time": "00:30",
+        "user_id": "369258147"
+    },
+    {
+        "description": "Metal filing cabinet with 3 drawers.",
+        "image_url": "0",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                32.10040720518859,
+                34.85060661441673
+            ]
+        },
+        "title": "Filing Cabinet",
+        "upload_time": "01:00",
+        "user_id": "258369147"
+    },
+    {
+        "description": "Bookcase with 5 shelves. Great for books and display items.",
+        "image_url": "0",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                32.11280610396849,
+                34.85534591822339
+            ]
+        },
+        "title": "Bookcase",
+        "upload_time": "01:30",
+        "user_id": "369147258"
+    },
+    {
+        "description": "Decorative wall clock. Needs new batteries.",
+        "image_url": "0",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                32.11813343818315,
+                34.846405267738625
+            ]
+        },
+        "title": "Wall Clock",
+        "upload_time": "02:00",
+        "user_id": "147258369"
+    },
+    {
+        "description": "Wooden magazine rack. Perfect for living room or bathroom.",
+        "image_url": "0",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                32.10705254705069,
+                34.85790038168596
+            ]
+        },
+        "title": "Magazine Rack",
+        "upload_time": "02:30",
+        "user_id": "369258147"
+    },
+    {
+        "description": "Cotton throw rug. Colorful and vibrant.",
+        "image_url": "0",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                32.100272921029394,
+                34.8553746673153
+            ]
+        },
+        "title": "Throw Rug",
+        "upload_time": "03:00",
+        "user_id": "258369147"
+    },
+    {
+        "description": "Kitchen island cart with wheels. Very convenient.",
+        "image_url": "0",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                32.11326983065394,
+                34.863059567225804
+            ]
+        },
+        "title": "Kitchen Island Cart",
+        "upload_time": "03:30",
+        "user_id": "369147258"
+    },
+    {
+        "description": "Outdoor bistro set. Includes table and 2 chairs.",
+        "image_url": "0",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                32.10936200470533,
+                34.85261176117962
+            ]
+        },
+        "title": "Bistro Set",
+        "upload_time": "04:00",
+        "user_id": "147369258"
+    },
+    {
+        "description": "Indoor plant stand. Perfect for displaying your plants.",
+        "image_url": "0",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                32.11489266694196,
+                34.86326143845791
+            ]
+        },
+        "title": "Plant Stand",
+        "upload_time": "04:30",
+        "user_id": "258147369"
+    },
+    {
+        "description": "Desk with built-in shelves. Great for home office.",
+        "image_url": "0",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                32.11369454862815,
+                34.856430079968824
+            ]
+        },
+        "title": "Desk with Shelves",
+        "upload_time": "05:00",
+        "user_id": "369147258"
+    },
+    {
+        "description": "Classic wooden rocking horse. Perfect for children's room.",
+        "image_url": "0",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                32.10317356472494,
+                34.8597289085714
+            ]
+        },
+        "title": "Wooden Rocking Horse",
+        "upload_time": "05:30",
+        "user_id": "147258369"
+    },
+    {
+        "description": "Metal storage rack. Suitable for garage or basement.",
+        "image_url": "0",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                32.110663239276626,
+                34.85989605029411
+            ]
+        },
+        "title": "Metal Storage Rack",
+        "upload_time": "06:00",
+        "user_id": "369258147"
+    },
+    {
+        "description": "Decorative wooden ladder. Great for hanging blankets or towels.",
+        "image_url": "0",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                32.10933303766833,
+                34.85308279510858
+            ]
+        },
+        "title": "Decorative Ladder",
+        "upload_time": "06:30",
+        "user_id": "258369147"
+    },
+    {
+        "description": "Outdoor hammock. Comes with stand.",
+        "image_url": "0",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                32.11758022254899,
+                34.84956987367937
+            ]
+        },
+        "title": "Outdoor Hammock",
+        "upload_time": "07:00",
+        "user_id": "369147258"
+    },
+    {
+        "description": "Wooden TV tray set. Includes 4 trays and stand.",
+        "image_url": "0",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                32.100847557981055,
+                34.86024585880877
+            ]
+        },
+        "title": "TV Tray Set",
+        "upload_time": "07:30",
+        "user_id": "147369258"
+    },
+    {
+        "description": "Kids' bookshelf with colorful bins.",
+        "image_url": "0",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                32.103995898831386,
+                34.846956502255715
+            ]
+        },
+        "title": "Kids' Bookshelf",
+        "upload_time": "08:00",
+        "user_id": "258147369"
+    },
+    {
+        "description": "Ceramic vase with beautiful blue pattern.",
+        "image_url": "0",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                32.10001836998141,
+                34.85960191039783
+            ]
+        },
+        "title": "Ceramic Vase",
+        "upload_time": "08:30",
+        "user_id": "369147258"
+    },
+    {
+        "description": "Round dining table. Seats 4 comfortably.",
+        "image_url": "0",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                32.101859801894996,
+                34.86307165276041
+            ]
+        },
+        "title": "Dining Table",
+        "upload_time": "09:00",
+        "user_id": "147258369"
+    },
+    {
+        "description": "Rattan armchair. Very comfortable and in good condition.",
+        "image_url": "0",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                32.109738271516996,
+                34.85912768398197
+            ]
+        },
+        "title": "Rattan Armchair",
+        "upload_time": "09:30",
+        "user_id": "369258147"
+    }
+]
