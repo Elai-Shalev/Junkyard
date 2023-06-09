@@ -1,20 +1,20 @@
-//
-//  PhotoCaptureView.swift
-//  Vinstage
-//
-//  Created by Roee Kleiner on 09/06/2023.
-//
-
 import SwiftUI
 
 struct PhotoCaptureView: View {
+
+    @Binding var showImagePicker: Bool
+    @Binding var image: Image?
+
+
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+        ImagePicker(isShown: $showImagePicker, image: $image)
     }
 }
 
+#if DEBUG
 struct PhotoCaptureView_Previews: PreviewProvider {
     static var previews: some View {
-        PhotoCaptureView()
+        PhotoCaptureView(showImagePicker: .constant(false), image: .constant(Image("")))
     }
 }
+#endif

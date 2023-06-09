@@ -8,13 +8,20 @@
 import SwiftUI
 
 struct PieceAnnotation: View {
+    let piece: Piece
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+        ZStack {
+            Circle()
+                .fill(.gray)
+                .frame(width: 35, height: 35)
+            Text("📻")
+            
+        }
     }
 }
 
 struct PieceAnnotation_Previews: PreviewProvider {
     static var previews: some View {
-        PieceAnnotation()
+        PieceAnnotation(piece: Piece.samplePieces[0])
     }
 }
