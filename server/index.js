@@ -1,18 +1,25 @@
-const express = require("express");
-const fs = require("fs")
-
-const apiRouter = require("./routes/api")
-
-const PORT = process.env.PORT || 3000;
+const express = require('express');
+const apiRouter = require("./routes/api");
+const imagesRouter = require("./routes/images")
+const PORT = 5000;
 
 
-app = express();
-app.use(express.json())
-
-
+const app = express();
+app.use(express.json());
 
 app.use("/api/", apiRouter);
+app.use("/api/images/", imagesRouter);
+
+app.get("*", (req, res) =>{
+    res.send("Don't use this")
+});
+
 
 app.listen(PORT, ()=>{
-    console.log("Listening on port: " + PORT);
+    console.log(`Listening on ${PORT}`);
 })
+
+
+
+
+
