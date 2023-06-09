@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct VinstageApp: App {
+struct JunkyardApp: App {
     
     var user = User.emptyUser
     var locationManager: LocationManager = LocationManager()
