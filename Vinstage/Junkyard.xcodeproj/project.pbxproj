@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		748878C82A31C17F004520DB /* VinstageApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 748878C72A31C17F004520DB /* VinstageApp.swift */; };
-		748878CA2A31C17F004520DB /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 748878C92A31C17F004520DB /* ContentView.swift */; };
+		748878CA2A31C17F004520DB /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 748878C92A31C17F004520DB /* MainView.swift */; };
 		748878CC2A31C180004520DB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 748878CB2A31C180004520DB /* Assets.xcassets */; };
 		748878CF2A31C180004520DB /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 748878CE2A31C180004520DB /* Preview Assets.xcassets */; };
 		748878D82A31C2DB004520DB /* Piece.swift in Sources */ = {isa = PBXBuildFile; fileRef = 748878D72A31C2DB004520DB /* Piece.swift */; };
@@ -24,12 +24,15 @@
 		748878F22A31FB8F004520DB /* NewPieceView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 748878F12A31FB8F004520DB /* NewPieceView.swift */; };
 		748878F42A31FD92004520DB /* UserKey.swift in Sources */ = {isa = PBXBuildFile; fileRef = 748878F32A31FD92004520DB /* UserKey.swift */; };
 		748878F62A3210DE004520DB /* PieceService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 748878F52A3210DE004520DB /* PieceService.swift */; };
+		74B9938B2A327ADA00A1396E /* ImagePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74B9938A2A327ADA00A1396E /* ImagePicker.swift */; };
+		74B9938D2A327AEC00A1396E /* PhotoCaptureView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74B9938C2A327AEC00A1396E /* PhotoCaptureView.swift */; };
+		74B9938F2A3291C300A1396E /* StarReview.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74B9938E2A3291C300A1396E /* StarReview.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		748878C42A31C17F004520DB /* Vinstage.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Vinstage.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		748878C72A31C17F004520DB /* VinstageApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VinstageApp.swift; sourceTree = "<group>"; };
-		748878C92A31C17F004520DB /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		748878C92A31C17F004520DB /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
 		748878CB2A31C180004520DB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		748878CE2A31C180004520DB /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		748878D72A31C2DB004520DB /* Piece.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Piece.swift; sourceTree = "<group>"; };
@@ -46,6 +49,9 @@
 		748878F12A31FB8F004520DB /* NewPieceView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewPieceView.swift; sourceTree = "<group>"; };
 		748878F32A31FD92004520DB /* UserKey.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserKey.swift; sourceTree = "<group>"; };
 		748878F52A3210DE004520DB /* PieceService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PieceService.swift; sourceTree = "<group>"; };
+		74B9938A2A327ADA00A1396E /* ImagePicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePicker.swift; sourceTree = "<group>"; };
+		74B9938C2A327AEC00A1396E /* PhotoCaptureView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoCaptureView.swift; sourceTree = "<group>"; };
+		74B9938E2A3291C300A1396E /* StarReview.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StarReview.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,7 +109,7 @@
 			children = (
 				748878E72A31D7B5004520DB /* Piece */,
 				748878E02A31CF87004520DB /* Map */,
-				748878C92A31C17F004520DB /* ContentView.swift */,
+				748878C92A31C17F004520DB /* MainView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -144,6 +150,9 @@
 				748878EB2A31F256004520DB /* EditPieceView.swift */,
 				748878ED2A31F5AB004520DB /* PieceImageView.swift */,
 				748878F12A31FB8F004520DB /* NewPieceView.swift */,
+				74B9938A2A327ADA00A1396E /* ImagePicker.swift */,
+				74B9938C2A327AEC00A1396E /* PhotoCaptureView.swift */,
+				74B9938E2A3291C300A1396E /* StarReview.swift */,
 			);
 			path = Piece;
 			sourceTree = "<group>";
@@ -183,7 +192,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 748878BF2A31C17F004520DB /* Build configuration list for PBXProject "Vinstage" */;
+			buildConfigurationList = 748878BF2A31C17F004520DB /* Build configuration list for PBXProject "Junkyard" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -221,7 +230,7 @@
 				748878F22A31FB8F004520DB /* NewPieceView.swift in Sources */,
 				748878EE2A31F5AB004520DB /* PieceImageView.swift in Sources */,
 				748878F62A3210DE004520DB /* PieceService.swift in Sources */,
-				748878CA2A31C17F004520DB /* ContentView.swift in Sources */,
+				748878CA2A31C17F004520DB /* MainView.swift in Sources */,
 				748878F02A31F865004520DB /* PieceImage.swift in Sources */,
 				748878C82A31C17F004520DB /* VinstageApp.swift in Sources */,
 				748878E22A31CF99004520DB /* PieceAnnotation.swift in Sources */,
@@ -230,7 +239,10 @@
 				748878F42A31FD92004520DB /* UserKey.swift in Sources */,
 				748878EC2A31F256004520DB /* EditPieceView.swift in Sources */,
 				748878DC2A31C3E1004520DB /* MapView.swift in Sources */,
+				74B9938D2A327AEC00A1396E /* PhotoCaptureView.swift in Sources */,
+				74B9938F2A3291C300A1396E /* StarReview.swift in Sources */,
 				748878DA2A31C399004520DB /* Location.swift in Sources */,
+				74B9938B2A327ADA00A1396E /* ImagePicker.swift in Sources */,
 				748878E92A31D811004520DB /* User.swift in Sources */,
 				748878D82A31C2DB004520DB /* Piece.swift in Sources */,
 			);
@@ -365,6 +377,7 @@
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = Vinstage/Info.plist;
+				INFOPLIST_KEY_NSCameraUsageDescription = "Used to upload new pieces";
 				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "Show pieces nearby";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -376,7 +389,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.roeekl.Junkyard;
+				PRODUCT_BUNDLE_IDENTIFIER = com.roeekl.Vinstage;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -396,6 +409,7 @@
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = Vinstage/Info.plist;
+				INFOPLIST_KEY_NSCameraUsageDescription = "Used to upload new pieces";
 				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "Show pieces nearby";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -407,7 +421,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.roeekl.Junkyard;
+				PRODUCT_BUNDLE_IDENTIFIER = com.roeekl.Vinstage;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -418,7 +432,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		748878BF2A31C17F004520DB /* Build configuration list for PBXProject "Vinstage" */ = {
+		748878BF2A31C17F004520DB /* Build configuration list for PBXProject "Junkyard" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				748878D02A31C180004520DB /* Debug */,

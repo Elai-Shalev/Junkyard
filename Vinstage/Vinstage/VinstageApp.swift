@@ -9,9 +9,16 @@ import SwiftUI
 
 @main
 struct VinstageApp: App {
+    
+    var user = User.emptyUser
+    var locationManager: LocationManager = LocationManager()
+    let pieceService: PieceService = PieceService()
+    
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MainView(locationManager: locationManager,pieceService: pieceService)
+                .environment(\.user, user)
         }
+
     }
 }
